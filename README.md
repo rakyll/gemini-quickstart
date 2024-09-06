@@ -18,6 +18,7 @@ $ curl "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash
     -X POST \
     -d '{
       "contents": [{
+        "role": "user",
         "parts":[{"text": "Hi, how are you?"}]
       }]
     }'
