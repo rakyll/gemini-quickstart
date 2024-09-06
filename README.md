@@ -43,6 +43,13 @@ print(response.text)
 
 Check out the cookbook for example [Jupyter notebooks][2].
 
+Check out the other client libraries: [Node.js/TypeScript][3] and [Go][4].
+
+Check out the [Gemini API docs][5] for more. 
+
 
 [1]: https://aistudio.google.com/
 [2]: https://github.com/google-gemini/gemini-api-cookbook/
+[3]: https://github.com/google-gemini/generative-ai-js
+[4]: https://github.com/google/generative-ai-go
+[5]: https://ai.google.dev/gemini-api/docs
