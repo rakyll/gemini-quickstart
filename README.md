@@ -46,10 +46,11 @@ Check out the following for more:
 * [API documentation][5].
 * [AI Studio][1] for prototyping and exploration.
 * Cookbooks as [Jupyter notebook][2] examples.
-* Other client libraries: [Node.js][3] and [Go][4].
+* Client libraries: [Python][3], [Node.js][4] and [Go][5].
 
 [1]: https://aistudio.google.com/
 [2]: https://github.com/google-gemini/gemini-api-cookbook/
-[3]: https://github.com/google-gemini/generative-ai-js
-[4]: https://github.com/google/generative-ai-go
-[5]: https://ai.google.dev/gemini-api/docs
+[3]: https://github.com/google-gemini/generative-ai-python
+[4]: https://github.com/google-gemini/generative-ai-js
+[5]: https://github.com/google/generative-ai-go
+[6]: https://ai.google.dev/gemini-api/docs
