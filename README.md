@@ -40,5 +40,8 @@ response = model.generate_content("Hello, how are you?")
 print(response.text)
 ```
 
+Check out the cookbook for example [Jupyter notebooks][2].
+
 
 [1]: https://aistudio.google.com/
+[2]: https://github.com/google-gemini/gemini-api-cookbook/
