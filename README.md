@@ -41,12 +41,11 @@ response = model.generate_content("Hello, how are you?")
 print(response.text)
 ```
 
-Check out the cookbook for example [Jupyter notebooks][2].
+Check out the following for more:
 
-Check out the other client libraries: [Node.js/TypeScript][3] and [Go][4].
-
-Check out the [Gemini API docs][5] for more. 
-
+* [API documentation][5].
+* Cookbooks as [Jupyter notebooks][2].
+* Other client libraries: [Node.js/TypeScript][3] and [Go][4].
 
 [1]: https://aistudio.google.com/
 [2]: https://github.com/google-gemini/gemini-api-cookbook/
