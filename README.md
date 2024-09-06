@@ -7,7 +7,7 @@ Obtain an API key at [AI Studio][1].
 Set your API key as an environmental variable: 
 
 ```sh
-export GEMINI_API_KEY=<YOUR KEY>
+$ export GEMINI_API_KEY=<YOUR KEY>
 ```
 
 Make your first request to the API:
